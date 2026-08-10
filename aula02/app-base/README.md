@@ -2,8 +2,8 @@
 
 Código-fonte da **Aula 02** (Semana 2) da disciplina **DESENVOLVIMENTO-DE-API-BACK-END**.
 
-Projeto base NestJS — referência para os exercícios do dia.  
-Disponível na **página da Semana 2** e no repositório do professor:
+O **`app-base`** é o projeto base para **uso em sala de aula** — referência para os exercícios do dia.  
+Pode ser baixado na **página do curso** e no **GitHub** do professor:
 
 https://github.com/prof-carvalholucas/DESENVOLVIMENTO-DE-API-BACK-END
 
