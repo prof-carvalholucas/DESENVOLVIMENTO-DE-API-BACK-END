@@ -1,0 +1,12 @@
+# Dependências e build
+node_modules
+dist
+
+# Banco SQLite gerado em tempo de execução
+data/*.sqlite
+data/*.sqlite-*
+
+# Ambiente e logs
+.env
+.env.*
+*.log
